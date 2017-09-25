@@ -1,5 +1,5 @@
 # Instagram-PHP-API
-
+[![Build Status]
 Usage
 -----
 ```php
