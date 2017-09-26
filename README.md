@@ -15,5 +15,11 @@ $instagram->getuserdata("username"); //let empty to get info of recent user
 
 //upload image
 $instagram->uploadimg("path/to/image.jpg", "description"); //file MUST be jpg!
+
+//follow user
+$instagram->follow("username");
+
+//unfollow user
+$instagram->unfollow("username");
 ?>
 ```
