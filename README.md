@@ -1,4 +1,4 @@
-# Instagram-PHP-API
+# Instagram PHP API
 At first I apologize for my bad english. My mother tongue is PHP ;)
 
 Usage
